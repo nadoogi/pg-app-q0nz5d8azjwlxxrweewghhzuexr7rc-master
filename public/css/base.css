@@ -1,0 +1,16 @@
+.padding_box {
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+
+}
+
+
+
+.boder_box {
+
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: gray;
+}
